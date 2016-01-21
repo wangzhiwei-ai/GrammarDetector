@@ -1,0 +1,27 @@
+it BE (.*) that
+it BE (.*) who
+BE it (.*) who
+BE it (.*) that
+it BE because (.*) that
+it BE not until (.*) that
+DO VB
+SPECIAL_ADJ N
+ever
+never
+just
+badly
+highly
+really
+little
+more (.*) than
+very
+single
+such
+only
+mere
+perfect
+pure
+complete
+plain
+thorough
+outright

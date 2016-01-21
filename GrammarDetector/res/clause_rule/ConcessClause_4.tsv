@@ -1,0 +1,4 @@
+.*\\bHowever\\b
+.*\\bhowever\\b	
+\\bno matter\\b.*\\bhow\\b
+\\bNo matter\\b.*\\bhow\\b

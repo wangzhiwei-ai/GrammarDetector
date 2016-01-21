@@ -1,0 +1,54 @@
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_yesterday, 4_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_Was, 2_it, 3_yesterday, 4_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_not, 4_until, 5_his, 6_wife, 7_came, 8_back, 9_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_Do, 2_sit]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_Do, 2_be]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[2_people, 3_do]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[3_the]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[5_never]":["ClauseType[强调句, 1.0]"],"[4_is]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_What]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_Little]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[2_is, 3_more, 4_imperative]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_is, 3_stability, 4_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_Do, 2_write]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[4_buy]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_I]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_on, 4_Monday, 5_night, 6_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_because, 4_the, 5_water, 6_had, 7_risen, 8_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_he, 4_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_the, 4_book, 5_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_in, 4_this, 5_shop, 6_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_Do, 2_be]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_I, 2_do]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_He, 2_does]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_He, 2_did]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_She, 2_did]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[3_a]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[2_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[5_a]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[6_off]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[2_kissed]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[3_her]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_in, 4_the, 5_office, 6_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_is, 3_the, 4_children, 5_who]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_is, 3_because, 4_he, 5_is, 6_ill, 7_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_Is, 2_it, 3_because, 4_he, 5_is, 6_ill, 7_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_not, 4_until, 5_I, 6_met, 7_you, 8_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_not, 4_until, 5_the, 6_meal, 7_was, 8_over, 9_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_is, 3_I, 4_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_him, 4_who, 5_\\, 6_that]":["ClauseType[强调句, 1.0]"],"[1_It, 2_was, 3_him, 4_who]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_only, 4_when, 5_I, 6_reread, 7_his, 8_poems, 9_recently, 10_that]":["ClauseType[强调句, 1.0]"],"[2_was]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_is, 3_not, 4_only, 5_he, 6_but, 7_also, 8_his, 9_parents, 10_who]":["ClauseType[强调句, 1.0]"],"[1_It, 2_is, 3_not, 4_only, 5_he, 6_but, 7_also, 8_his, 9_parents, 10_who, 11_\\, 12_that]":["ClauseType[强调句, 1.0]"],"[3_not]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_in, 4_the, 5_street, 6_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_about, 4_600, 5_years, 6_ago, 7_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_because, 4_he, 5_was, 6_ill, 7_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_Was, 2_it, 3_during, 4_the, 5_Second, 6_World, 7_War, 8_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{}}
+{"tokensGrammarsMap":{}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_on, 4_October, 5_1st, 6_,1949, 7_when, 8_he, 9_joined, 10_the, 11_Party, 12_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_It, 2_was, 3_in, 4_the, 5_room, 6_where, 7_he, 8_had, 9_studied, 10_for, 11_three, 12_years, 13_that]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[2_impressions]":["ClauseType[强调句, 1.0]"]}}
+{"tokensGrammarsMap":{"[1_Lucy, 2_does]":["ClauseType[强调句, 1.0]"]}}

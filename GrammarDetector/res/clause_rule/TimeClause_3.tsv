@@ -1,0 +1,9 @@
+\\bevery\\b.*\\btime\\b
+\\bEvery\\b.*\\btime\\b
+\\beach\\b.*\\btime\\b
+\\bEach\\b.*\\btime\\b
+\\bThe\\b.*\\bday\\b
+\\bNext\\b.*\\btime\\b
+.*\\bimmediately\\b
+.*\\bDirectly\\b
+.*\\bdirectly\\b

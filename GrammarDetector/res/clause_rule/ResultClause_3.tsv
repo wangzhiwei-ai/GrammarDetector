@@ -1,0 +1,5 @@
+\\bsuch\\b.*\\bthat\\b
+\\bwith the result\\b.*\\bthat\\b
+.*\\botherwise\\b
+\\bor\\b.*\\belse\\b
+.*\\belse\\b

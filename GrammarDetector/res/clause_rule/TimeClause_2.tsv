@@ -1,0 +1,10 @@
+.*\\bafter\\b
+\\bNow\\b.*\\bthat\\b
+\\bas long\\b.*\\bas\\b
+\\bAs soon\\b.*\\bas\\b
+\\bas soon\\b.*\\bas\\b
+\\bnext\\b.*\\btime\\b
+\\bthe moment\\b.*\\bthat\\b
+\\bthe\\b.*\\bmoment\\b
+\\bthe\\b.*\\bminute\\b
+\\bthe minute\\b.*\\bthat\\b

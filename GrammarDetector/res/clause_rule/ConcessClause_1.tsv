@@ -1,0 +1,7 @@
+SBAR<(IN<(Although|although|Though|whereas|While))<S
+SBAR<(IN<(though!,as))<S
+SBAR<(IN<(Whichever))<(S!.VP)
+SBAR<(IN<(whichever))<(S!.VP)!$-/^VB/
+SBAR<(IN<(Whoever))<(S!.VP)
+SBAR<(IN<(whoever))<(S!.VP)!$-/^VB/
+SBAR<(IN<(whatever))<(S!.VP)!$-/^VB/

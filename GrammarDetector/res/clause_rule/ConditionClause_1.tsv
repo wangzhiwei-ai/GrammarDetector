@@ -1,0 +1,4 @@
+SBAR<(IN<(If|unless|Unless))<S
+SBAR<(IN<(if!,as))<S!$--/^VB/
+VP<(VB<(suppose|Suppose))<(SBAR<S)
+VP<(VBG<(Supposing|Assuming|Providing|providing|supposing|assuming))<(SBAR<S)

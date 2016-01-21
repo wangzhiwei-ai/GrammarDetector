@@ -1,0 +1,3 @@
+SBAR<(IN<(As))<(S!.VP)
+SBAR<(IN<(as!,BE!,not!,'t))<(S!.VP)!,NP
+SBAR<(WHADVP<<(how!,BE!,not!,'t))<(S!.VP)!$-/^VB/!,IN

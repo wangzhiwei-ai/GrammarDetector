@@ -1,0 +1,6 @@
+HASH|can#
+HASH|may#
+HASH|must#
+HASH|should#
+HASH|will#
+HASH|shall#

@@ -1,0 +1,6 @@
+VP<(BE $+(SBAR<(WHADVP<WRB $S)))
+S<(NP<(PRP<It)$(VP[<VBD|VBZ]<(SBAR<(IN<that))))
+(SBAR<(IN<because|as))>(VP<BE)
+SBAR<AS
+SBAR$(BE>#VP)
+SBAR>(ADJP>VP$--BE)

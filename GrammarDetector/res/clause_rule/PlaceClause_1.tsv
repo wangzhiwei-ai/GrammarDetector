@@ -1,0 +1,5 @@
+SBAR<(WHADVP<(WRB<(where!,BE!,not!,'t)))<(S)!$-NP!$-/^VB/!,IN
+SBAR<(WHADVP<(WRB<Where))<(S!.VP)!$-NP
+/.*/<(WHADVP<(WRB<(where!,BE!,not!,'t)).JJ)
+/.*/<(WHADVP<(WRB<(Where)).JJ)
+SBAR<(WHADVP<(WRB<(wherever!,BE!,not!,'t)))<S,VB>VP

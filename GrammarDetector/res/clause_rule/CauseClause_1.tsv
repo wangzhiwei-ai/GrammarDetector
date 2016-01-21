@@ -1,0 +1,5 @@
+SBAR<(IN<(Because))<S
+SBAR<(IN<(because!,BE!,not!,'t))<S
+SBAR<(IN<(As))<(S!.VP)
+SBAR<(IN<(as!,BE!,not!,'t))<(S!.VP)!,NP
+SBAR<(IN<(Since|since))<S

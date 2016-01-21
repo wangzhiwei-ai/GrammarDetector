@@ -1,0 +1,109 @@
+-----------------------------------
+ClauseTypeDetector
+1.
+
+
+	public String GetLamma(String word){
+		LanguageUnit u = new LanguageUnit(word);
+		List<String> l = u.getLemmaList();
+		
+		for(int i=0;i<l.size();i++){
+			return l.get(0);
+		}
+		   
+		return null;
+	}
+	
+	
+2.
+
+	public void AddGrammarMap(String result,LanguageUnit unit,String grammarName,TypeEnum type){
+		String[] clauses = result.split("\n");
+		for (String clause : clauses){
+			
+			String c;
+			if(type==TypeEnum.TREE){
+				c = getString(Tree.valueOf(clause).getLeaves()).trim();
+			}else{
+				c = clause;
+			}
+				
+			List<String> tokens = unit.getTokenList();
+			String tokenStr = Utils.joinOn(tokens, " ");
+			
+			if(c.trim().equals(tokenStr.trim())){
+				this.grammarMap.put(new TokenPosition(-1),new ClauseType(grammarName));
+				return;
+			}
+			
+			int end = tokenStr.indexOf(c);
+			if(end<0){
+				continue;
+			}
+			int startIndex = tokenStr.substring(0,end).split(" ").length;
+			
+			int endIndex = startIndex+c.split(" ").length;	
+			this.grammarMap.put(new TokenPosition(startIndex,endIndex),new ClauseType(grammarName));
+		}
+	}
+	
+3.
+
+	public Map<TokenPosition, BaseGrammar> detectGrammar(LanguageUnit unit){
+		
+		if(unit.getSentence().equals("")|unit==null|unit.getPhraseTree()==null)
+			return null;
+		
+		grammarMap = new HashMap<TokenPosition, BaseGrammar>();
+		
+		this.SubjectClause(unit);
+		this.PredicativeClause(unit);
+		this.ObjectClause(unit);
+		this.PrepositionalClause(unit);
+		this.AdjectiveComplementClause(unit);
+		this.AttributiveClause(unit);
+		this.PlaceClause(unit);
+		this.CauseClause(unit);
+		this.PurposeClause(unit);
+		this.ResultClause(unit);
+		this.ConditionClause(unit);
+		this.ConcessClause(unit);
+		this.ComparisonClause(unit);
+		this.MannerClause(unit);
+		this.TimeClause(unit);
+
+		return this.grammarMap;
+	}
+	
+------------------------------------------------------------------------------------------
+ComparativeDetector
+
+1.
+	public void AddGrammarMap(String match,String sentence){
+		
+		if(match.trim().equals(sentence.trim())){
+			this.grammarMap.put(new TokenPosition(-1),new ClauseType(grammarName));
+			return;
+		}
+		
+		int end = sentence.indexOf(match);
+		if(end<0){
+			return;
+		}
+		
+		int startIndex = sentence.substring(0,end).split(" ").length;
+		int endIndex = startIndex+ match.split(" ").length;	
+		this.grammarMap.put(new TokenPosition(startIndex,endIndex),new ClauseType(this.grammarName));
+	}
+
+	
+2.
+
+	public Map<TokenPosition, BaseGrammar> detectGrammar(LanguageUnit unit) {
+		if(unit.getSentence().equals("")|unit==null)
+			return null;
+		grammarMap = new HashMap<TokenPosition, BaseGrammar>();
+		
+		RecognizeSpecialSentence(unit);		
+		return this.grammarMap;
+	}

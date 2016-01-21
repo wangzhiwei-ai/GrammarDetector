@@ -1,0 +1,9 @@
+S<(NP<(PRP<It)$(VP[<VBD|VBZ|VBN]<NP<(SBAR<(IN[<that|whether]))))
+S<(NP<(PRP<It)$(VP[<VBD|VBZ|VBN]<ADJP<(SBAR<(IN<that))))
+S<(NP<(PRP<It)$(VP[<VBD|VBZ|VBN]<(SBAR<(IN<that))))
+S<(SBAR<(IN<That))
+S<(SBAR<(IN<Whether $S) $+VP)
+S<(SBAR<(WHADVP<WRB $S) $+VP)
+S<<What|Whatever|Whichever|Whoever
+S<(NP<(PRP<It)$(VP<VBZ<(ADJP<(SBAR<WHNP))))
+SQ<(VBZ$(NP<(PRP<it))$(NP<NP<(SBAR<(IN<that))))

@@ -1,0 +1,6 @@
+SBAR<(IN<(While|while|since|until|till|before|Once|Since))<S!,NP
+SBAR<(WHADVP<(WRB<(whenever!,BE!,not!,'t)))<S
+SBAR<(WHADVP<(WRB<(when!,BE!,not!,'t)))<S!$-/^VB/!,IN!,JJ!,NP
+SBAR<(WHADVP<(WRB<(Whenever|When)))<(S!.VP)!$-/^VB/
+SBAR<(IN<(as!,BE!,not!,'t))<(S!.VP)!,NP
+SBAR<(IN<(As))<(S!.VP)

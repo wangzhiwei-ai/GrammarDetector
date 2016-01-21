@@ -1,0 +1,25 @@
+\\bEven\\b.*\\bif\\b
+\\beven\\b.*\\bif\\b
+\\bEven\\b.*\\bthough\\b
+\\beven\\b.*\\bthough\\b
+\\bMuch\\b.*\\bas\\b
+\\bGranted\\b.*\\bthat\\b
+\\bAdmitting\\b.*\\bthat\\b
+\\bfor all\\b.*\\bthat\\b
+\\bin spite of the fact\\b.*\\bthat\\b
+\\bNo matter\\b.*\\bwhat\\b
+\\bno matter\\b.*\\bwhat\\b
+.*\\bWhatever\\b
+\\bNo matter\\b.*\\bwho\\b
+\\bno matter\\b.*\\bwho\\b
+\\bNo matter\\b.*\\bwhich\\b
+\\bno matter\\b.*\\bwhich\\b
+\\bNo matter\\b.*\\bwhen\\b
+\\bno matter\\b.*\\bwhen\\b
+.*\\bwhenever\\b
+.*\\bWhenever\\b
+\\bNo matter\\b.*\\bwhere\\b
+\\bno matter\\b.*\\bwhere\\b
+.*\\bwherever\\b
+.*\\bWherever\\b
+\\bWhether or\\b.*\\bnot\\b

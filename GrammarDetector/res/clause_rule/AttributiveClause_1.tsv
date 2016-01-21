@@ -1,0 +1,8 @@
+SBAR$-NP>NP
+(SBAR<WHNP>(PP$-/,/))$--IN
+SBAR<<(TO$+WHNP)$-/,/
+SBAR<(IN<(as|As)$+S)$-/,/
+SBAR<(IN<(as|As)$+S)$+/,/
+(SBAR<#(WHADVP|WHNP|WHPP))$-/,/
+SBAR<#(IN<as)>(VP>(S$+/,/))
+SBAR<#(IN<as)>VP$-(NP$-/VB.*/)
