@@ -177,5 +177,6 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER" level="application" />
+    <orderEntry type="library" name="liblinear-java-1.95" level="project" />
   </component>
 </module>

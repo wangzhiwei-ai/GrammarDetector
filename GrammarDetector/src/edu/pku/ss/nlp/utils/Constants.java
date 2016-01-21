@@ -231,4 +231,8 @@ public class Constants {
         public static final String THE = "the";
     }
 
+    public static final class CountNounDetector {
+        public static final String TOKEN_COUNTABLE_PATH = BASE_DIR + "countable_uncountable/dict/token_countable.txt";
+    }
+
 }
